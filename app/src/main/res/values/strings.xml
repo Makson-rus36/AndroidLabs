@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LR1</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Заметки</string>
+    <string name="menu_folders">Папки</string>
+    <string name="menu_trash">Корзина</string>
+</resources>
